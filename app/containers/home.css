@@ -1,0 +1,13 @@
+.header {
+    margin:1rem;
+    color:#2db7f5;
+    font-weight: 600;
+    cursor: pointer;
+    height: 50px!important;
+}
+.header:hover {
+    color:#57c5f7;
+}
+.indentation {
+  margin-left: 1rem;
+}
